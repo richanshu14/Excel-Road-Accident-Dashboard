@@ -25,11 +25,6 @@ This project presents an interactive Excel dashboard built to analyze and visual
 3. Use slicers to filter by year, state, vehicle type, etc.
 4. Hover over charts for insights and use pivot tables for deep-dive analysis.
 
-## 🧑‍💻 Author
-
-**Richanshu Yadav**  
-[GitHub Profile](https://github.com/richanshu14)
-
 
 ## 📌 Use Cases
 
@@ -37,3 +32,7 @@ This project presents an interactive Excel dashboard built to analyze and visual
 - Analysts tracking accident trends over time
 - Educational or demo project to showcase Excel dashboarding skills
 
+## 🧑‍💻 Author
+
+**Richanshu Yadav**  
+[GitHub Profile](https://github.com/richanshu14)
