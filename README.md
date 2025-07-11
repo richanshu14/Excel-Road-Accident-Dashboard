@@ -2,6 +2,10 @@
 
 This project presents an interactive Excel dashboard built to analyze and visualize road accident data for data-driven insights. It is designed for quick decision-making and highlights critical accident metrics such as total fatalities, accident causes, vehicle types, locations, and trends over time.
 
+## 📊 Excel Dashboard Preview
+
+![Excel Analysis](Excel_Dashboard.png)
+
 ## 📊 Features
 
 - Interactive Excel Dashboard using Pivot Tables & Slicers
