@@ -14,9 +14,6 @@ This project presents an interactive Excel dashboard built to analyze and visual
 - Accident cause breakdown and vehicle involvement analysis
 - Clean, visually appealing charts and slicers for dynamic filtering
 
-## 📁 Project Structure
-
-
 ## ⚙️ Tools Used
 
 - **Microsoft Excel** (Pivot Tables, Slicers, Charts)
@@ -28,7 +25,6 @@ This project presents an interactive Excel dashboard built to analyze and visual
 2. Open `Accident_Dashboard.xlsx` in Microsoft Excel.
 3. Use slicers to filter by year, state, vehicle type, etc.
 4. Hover over charts for insights and use pivot tables for deep-dive analysis.
-
 
 ## 📌 Use Cases
 
